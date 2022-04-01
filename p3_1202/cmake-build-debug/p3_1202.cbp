@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="p3_1202"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p3_1202">
+				<Option output="D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/p3_1202.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 p3_1202"/>
+					<CompileFile command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p3_1202/fast">
+				<Option output="D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/p3_1202.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 p3_1202/fast"/>
+					<CompileFile command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p33">
+				<Option output="D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/p33.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 p33"/>
+					<CompileFile command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p33/fast">
+				<Option output="D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/p33.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\su2020\ve280_ez\mw32\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 p33/fast"/>
+					<CompileFile command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SU2020/VE280_ez/mw32/bin/mingw32-make.exe -f &quot;D:/FA2020/VE281/project/p3/p3_1202/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/FA2020/VE281/project/p3/p3_1202/kdtree.cpp">
+			<Option target="p3_1202"/>
+		</Unit>
+		<Unit filename="D:/FA2020/VE281/project/p3/p3_1202/kdtree.hpp">
+			<Option target="p3_1202"/>
+		</Unit>
+		<Unit filename="D:/FA2020/VE281/project/p3/p3_1202/test.cpp">
+			<Option target="p33"/>
+		</Unit>
+		<Unit filename="D:/FA2020/VE281/project/p3/p3_1202/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
